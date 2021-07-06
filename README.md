@@ -46,6 +46,7 @@ You can ask me about making a network application, and I accept DM's for request
 poe5#7412
 
 <img align="left" alt="Spotify" width="52px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" />
+
 ### Spotify.
 
 Just Search up Poet5!
