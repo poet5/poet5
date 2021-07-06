@@ -39,3 +39,4 @@ You can ask me about making a network application, and I accept DM's for request
 
 ### Connect With Me!
 
+<img align="left" alt="Discord" width="26px" src="https://w7.pngwing.com/pngs/705/535/png-transparent-computer-icons-discord-logo-discord-icon-rectangle-logo-smiley-thumbnail.png" />
