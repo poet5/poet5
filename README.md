@@ -28,11 +28,12 @@ You can ask me about making a network application, and I accept DM's for request
 
 
 ### Spotify Playing.:
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="PET5 Spotify" width="350" />](https://open.spotify.com/user/	vj6dymtvb454gh0u20hulgppw)
 
 
 
 ### Connect With Me!: 
-
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[ICON SLUG].svg"
 
 
 ### Stats.
