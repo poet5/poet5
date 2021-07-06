@@ -3,19 +3,19 @@
 
 
 
-### Heya! I am a senior C++ developer, my name is Sahil Kajuri.
+###                                                                                   My Statistics.
 
-![Poet5's Github Stats!](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
+!                                               [Poet5's Github Stats!](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
 
 
-### What I've been doing!
+### My Feed.
 
 - I am doing OpenGL and working in the Voxel Engine, although I'm starting a few days ago, or months depending on how long I don't keep this updated, and when you see this MD     file.
 - I am trying to make my own Traffic Generator and Checksum as an experiment.
 - As well as my own protocol.
 - Updates are slow, but you can see activity [here!](https://github.com/poet5/Abraxas)
 
-### Languages and Tools. 🚀 
+### Languages and Tools.
 All of the things here!
 ‎
 
@@ -27,11 +27,11 @@ All of the things here!
 ‎
 
 
-## Spotify! 🎧
+## Now Playing.
 
 [![Spotify](https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify)](https://open.spotify.com/user/vj6dymtvb454gh0u20hulgppw)
 
-## Connections! 🌎
+## Connections.
 
 <img align="left" alt="Discord" width="52px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />
 
@@ -43,6 +43,6 @@ poe5#7412
 
 ### Spotify.
 
-Click my spotify feed!
+Click the above playlist.
 
 
