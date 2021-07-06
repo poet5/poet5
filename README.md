@@ -25,6 +25,7 @@ You can ask me about making a network application, and I accept DM's for request
 - Updates are slow, but I will make it public,  someday ;)
 
 ### Languages and Tools.
+The icons below all describe what I am good at.
 
 
 ### What I'm Listening To.
