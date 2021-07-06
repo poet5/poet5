@@ -1,6 +1,8 @@
 
+x-special/nautilus-clipboard
+copy
+file:///home/mozfet12/Downloads/poet5.png
 
-![poet5](/home/mozfet12/Downloads/poet5.png)
 
 ### Hey! My name is Sahil Kajuri, also known on the Internet as Poet5.
 
