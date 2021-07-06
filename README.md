@@ -24,6 +24,7 @@ You can ask me about making a network application, and I accept DM's for request
 - As well as my own protocol.
 - Updates are slow, but I will make it public,  someday ;)
 
+### Languages and Tools.
 
 
 ### Spotify Playing:
