@@ -29,7 +29,7 @@ All of the things here!
 
 [![Spotify](https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify)](https://open.spotify.com/user/vj6dymtvb454gh0u20hulgppw)
 
-## My Connections! :D
+## Connections! 🌎
 
 <img align="left" alt="Discord" width="52px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />
 
@@ -42,3 +42,7 @@ poe5#7412
 ### Spotify.
 
 Click my spotify feed!
+
+## My GitHub Stats.
+
+[![Poet5's Github Stats](https://github-readme-stats.vercel.app/api?username=poet5)](https://github.com/anuraghazra/github-readme-stats)
