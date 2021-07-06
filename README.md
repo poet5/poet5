@@ -13,7 +13,7 @@
 - I am doing OpenGL and working in the Voxel Engine, although I'm starting a few days ago, or months depending on how long I don't keep this updated, and when you see this MD     file.
 - I am trying to make my own Traffic Generator and Checksum as an experiment.
 - As well as my own protocol.
-- Updates are slow, but you can see activity ![here!](https://github.com/poet5/Abraxas)
+- Updates are slow, but you can see activity [here!](https://github.com/poet5/Abraxas)
 
 ### Languages and Tools. 🚀 
 All of the things here!
