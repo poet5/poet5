@@ -27,11 +27,13 @@ You can ask me about making a network application, and I accept DM's for request
 ### Languages and Tools.
 
 
-### Spotify Playing:
+### Spotify Playing.:
 
 
 
 ### Connect With Me!: 
 
 
+
+### Stats.
 
