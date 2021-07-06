@@ -30,6 +30,8 @@ You can ask me about making a network application, and I accept DM's for request
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg"/>
 <img align="left" alt="OpenGL" width="26px" src="https://commons.wikimedia.org/wiki/File:Opengl-logo.svg#/media/File:Opengl-logo.svg" />
 
+
+
 ### What I'm Listening To.
 
 [![Spotify](https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify)](https://open.spotify.com/user/vj6dymtvb454gh0u20hulgppw)
