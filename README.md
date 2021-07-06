@@ -29,7 +29,8 @@ You can ask me about making a network application, and I accept DM's for request
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg"/>
 <img align="left" alt="OpenGL" width="32px" src="https://www.svgrepo.com/show/306509/opengl.svg" />
-## 
+
+‎
 
 
 ### What I'm Listening To.
