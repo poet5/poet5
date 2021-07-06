@@ -3,7 +3,7 @@
 
 
 
-### Hey! I'm poet5! A senior C++ developer.
+### Heya! I am a senior C++ developer, my name is Sahil Kajuri.
 
 ![Poet5's Github Stats!](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
 
