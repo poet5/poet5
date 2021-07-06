@@ -28,7 +28,7 @@ You can ask me about making a network application, and I accept DM's for request
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg"/>
-<img align="left" alt="OpenGL" width="26px" src="https://www.svgrepo.com/show/306509/opengl.svg" />
+<img align="left" alt="OpenGL" width="32px" src="https://www.svgrepo.com/show/306509/opengl.svg" />
 
 
 
