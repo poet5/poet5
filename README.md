@@ -27,12 +27,9 @@ You can ask me about making a network application, and I accept DM's for request
 ### Languages and Tools.
 
 
-### Spotify Playing.:
+### What I'm Listening To.
 
 [![Spotify](https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify)](https://open.spotify.com/user/vj6dymtvb454gh0u20hulgppw)
 
-### Connect With Me!: 
-
-
-### Stats.
+### Connect With Me!
 
