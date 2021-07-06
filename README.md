@@ -5,13 +5,16 @@
 
 ### Hey! I'm poet5! A senior C++ developer.
 
+![Poet5's Github Stats!](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=poet5&show_icons=true&locale=en&layout=compact&theme=dracula)
 
-### My Feed
 
-- I am doing OpenGL and working in the Voxel Engine, although I'm starting a few days ago, or months depending on how long I don't keep this updated, and when you see this MD file.
+### What I've been doing!
+
+- I am doing OpenGL and working in the Voxel Engine, although I'm starting a few days ago, or months depending on how long I don't keep this updated, and when you see this MD     file.
 - I am trying to make my own Traffic Generator and Checksum as an experiment.
 - As well as my own protocol.
-- Updates are slow, but I will make it public,  someday ;)
+- Updates are slow, but you can see activity ![here!][https://github.com/poet5/Abraxas]
 
 ### Languages and Tools. 🚀 
 All of the things here!
@@ -43,7 +46,4 @@ poe5#7412
 
 Click my spotify feed!
 
-## My GitHub Stats.
 
-![Poet5's Github Stats!](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
-![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs?username=poet5&show_icons=true&locale=en&layout=compact&theme=dracula)
