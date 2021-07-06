@@ -5,7 +5,7 @@
 
 ###                                                                                   My Statistics.
 
-!                                               [Poet5's Github Stats!](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
+![Poet5's Github Stats!](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
 
 
 ### My Feed.
