@@ -39,4 +39,13 @@ You can ask me about making a network application, and I accept DM's for request
 
 ### Connect With Me!
 
-<img align="left" alt="Discord" width="26px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />
+<img align="left" alt="Discord" width="52px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" />
+
+### Discord.
+
+poe5#7412
+
+<img align="left" alt="Spotify" width="52px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" />
+### Spotify.
+
+Just Search up Poet5!
