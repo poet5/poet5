@@ -6,7 +6,6 @@
 ### Hey! I'm poet5! A senior C++ developer.
 
 ![Poet5's Github Stats!](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=poet5&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 
 ### What I've been doing!
