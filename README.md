@@ -45,4 +45,5 @@ Click my spotify feed!
 
 ## My GitHub Stats.
 
-[![Poet5's Github Stats](https://github-readme-stats.vercel.app/api?username=poet5)](https://github.com/anuraghazra/github-readme-stats)
+![Poet5's Github Stats!](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
+![Most Used Lang](https://github-readme-stats.vercel.app/api/top-langs?username=poet5&show_icons=true&locale=en&layout=compact&theme=dracula)
