@@ -1,6 +1,10 @@
-                                     # 												 README.md
+# 												                                            README.md
+
+
 
 ### Hi, it's me Doppo! :D 
+
+
 
 I'm a back-end developer, here in Chicago, Illinois!
 
