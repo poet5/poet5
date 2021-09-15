@@ -35,7 +35,7 @@
 
 ### Here are my stats.
 
-![GitHub :D](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
+![GitHub :D](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=gruvbox)  
 
 
 
