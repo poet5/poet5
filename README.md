@@ -1,9 +1,9 @@
 <h1 div align="center"> 👏 Yo, I'm Doppo!</div> 
 
+![](https://dcbadge.vercel.app/api/shield/801464843538268210)
+
 - At the moment I am learning Javascript and OpenGL.
 - I have made a library for socket connections, being able to send compressed messages between them, which you can see [here] (https://github.com/poet5/Abraxas)
-
-![](https://dcbadge.vercel.app/api/shield/801464843538268210)
 
 <h3 div align="left"> <img src= "https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false"  /></div>
 
