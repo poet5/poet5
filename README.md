@@ -20,7 +20,7 @@
 
 <br></br>
 
-<a align="center" href="https://discord.gg/47qvjzfpB5"><img src="https://img.shields.io/discord/733027681184251937.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<h1 div align="center" href="https://discord.gg/47qvjzfpB5"><img src="https://img.shields.io/discord/733027681184251937.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></div>
 <br></br>
 
 
