@@ -25,7 +25,7 @@
 
 
 
-###  My Statistics
+###  📕 Statistics
 
 <h3 div align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=dracula"  /></div>
 
@@ -35,7 +35,7 @@
 
 
 
-### What I may be vibing to
+## What I may be vibing to 
 
 <h3 div align="center"> <img src= "https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify"  /></div>
 
