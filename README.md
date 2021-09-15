@@ -16,7 +16,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-### Join My Community!
+### Join My Community, please :-)
 
 <br></br>
 
@@ -25,7 +25,7 @@
 
 
 
-###  My Statistics!
+###  My Statistics
 
 <h3 div align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=dracula"  /></div>
 
@@ -35,10 +35,9 @@
 
 
 
-#### Oh, and also a Spotify. ;D
+### What I may be vibing to
 
-
-[![Spotify](https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify)](https://open.spotify.com/user/vj6dymtvb454gh0u20hulgppw)
+<h3 div align="center"> <img src= "https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify"  /></div>
 
 
 
