@@ -5,7 +5,7 @@
 <br></br>
 
 #### - At the moment I am learning Javascript and OpenGL.
-#### - I have made a library for socket connections, being able to send compressed messages between them, which you can see [here] (https://github.com/poet5/Abraxas)
+#### - I have made a library for socket connections, being able to send compressed messages between them, which you can see [here](https://github.com/poet5/Abraxas)
 
 <h3 div align="left"> <img src= "https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false"  /></div>
 
