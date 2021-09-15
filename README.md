@@ -21,7 +21,7 @@
 <h3 div align="center" href="https://discord.gg/47qvjzfpB5"><img src="https://img.shields.io/discord/733027681184251937.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></div>
 <br></br>
 
- <h3 div align="right"> Spotify </div>
+ <h3 div align="center"> Spotify </div>
 
 <h3 div align="right"> <img src= "https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify"  /></div>
 
