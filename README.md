@@ -9,8 +9,6 @@ I'm a back-end developer, here in Chicago, Illinois!
 
 <br></br>
 <br></br>
-<br></br>
-<br></br>
 
 
 #### To give you a brief summary;
