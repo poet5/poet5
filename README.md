@@ -1,5 +1,7 @@
 <h1 div align="center"> 👏 Yo, I'm Doppo!</div> 
 
+- At the moment I am learning Javascript and OpenGL.
+- I have made a library for socket connections, being able to send compressed messages between them, which you can see [here] (https://github.com/poet5/Abraxas)
 
 ![](https://dcbadge.vercel.app/api/shield/801464843538268210)
 
