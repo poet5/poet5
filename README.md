@@ -3,7 +3,7 @@
 
 ## Hi, it's me Doppo! 
 
-
+![](https://dcbadge.vercel.app/api/shield/801464843538268210)
 
 I'm a back-end developer, here in Chicago, Illinois!
 
