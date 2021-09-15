@@ -35,7 +35,7 @@
 
 
 
-## What I may be vibing to 
+##  Spotify
 
 <h3 div align="center"> <img src= "https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify"  /></div>
 
