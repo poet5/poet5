@@ -21,7 +21,6 @@
 <br></br>
 
 <a href="https://discord.gg/47qvjzfpB5"><img src="https://img.shields.io/discord/733027681184251937.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<img alt="Discord" src="https://img.shields.io/discord/801880802992455741?label=JOIN%20OUR%20COMMUNITY&style=for-the-badge">
 <br></br>
 
 
