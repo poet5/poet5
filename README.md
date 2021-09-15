@@ -27,7 +27,7 @@
 
 ###  My Statistics!
 
-![GitHub :D](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=dracula)  
+<h1 div align="center">![GitHub :D](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=dracula)  </div>
 
 
 
