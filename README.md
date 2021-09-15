@@ -1,7 +1,4 @@
-<h1 div align="center">README.md</div> 
-
-
-## Hi, it's me Doppo! 
+<h1 div align="center"> 👏 Yo, I'm Doppo!</div> 
 
 ![](https://dcbadge.vercel.app/api/shield/801464843538268210)
 
@@ -20,7 +17,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-#### I have a discord server!
+#### My Discord Server!
 
 <a href="https://discord.gg/47qvjzfpB5"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
@@ -30,7 +27,7 @@
 
 
 
-#### Here are my stats.
+#### 📕 My Statistics
 
 ![GitHub :D](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=gruvbox)  
 
