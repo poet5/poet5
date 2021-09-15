@@ -20,14 +20,14 @@
 
 <br></br>
 
-<h1 div align="center" href="https://discord.gg/47qvjzfpB5"><img src="https://img.shields.io/discord/733027681184251937.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></div>
+<h3 div align="center" href="https://discord.gg/47qvjzfpB5"><img src="https://img.shields.io/discord/733027681184251937.svg?style=for-the-badge&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></div>
 <br></br>
 
 
 
 ###  My Statistics!
 
-<h1 div align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=dracula"  /></div>
+<h3 div align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=dracula"  /></div>
 
 
 
