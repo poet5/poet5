@@ -3,7 +3,7 @@
 
 ![](https://dcbadge.vercel.app/api/shield/801464843538268210)
 
-##### I'm a back-end developer, here in Chicago, Illinois!
+## I'm a back-end developer, here in Chicago, Illinois!
 <br></br>
 
 #### Here's what I work with:
