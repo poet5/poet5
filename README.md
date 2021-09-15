@@ -21,7 +21,7 @@ I'm a back-end developer, here in Chicago, Illinois!
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-#### I have a discord server!
+### I have a discord server!
 
 
 
@@ -31,7 +31,7 @@ I'm a back-end developer, here in Chicago, Illinois!
 
 
 
-#### Here are my stats.
+### Here are my stats.
 
 ![GitHub :D](https://github-readme-stats.vercel.app/api?username=poet5&show_icons=true&theme=dracula)  
 
@@ -41,7 +41,7 @@ I'm a back-end developer, here in Chicago, Illinois!
 
 
 
-#### Oh, and also a Spotify.  ;)
+### Oh, and also a Spotify.  ;)
 
 
 [![Spotify](https://novatorem-j4iwtdeag-poet5.vercel.app/api/spotify)](https://open.spotify.com/user/vj6dymtvb454gh0u20hulgppw)
