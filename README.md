@@ -9,7 +9,7 @@ I'm a back-end developer, here in Chicago, Illinois!
 
 
 
-To give you a brief summary;
+####To give you a brief summary;
 
 ### Here's what I work with:
 
