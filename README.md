@@ -6,7 +6,7 @@
 ### I'm a back-end developer, here in Chicago, Illinois!
 <br></br>
 
-<h3 div align="center"> <img src= "https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=dracula"  /></div>
+<h3 div align="left"> <img src= "https://github-readme-stats.vercel.app/api?username=poet5&show_icons=false&theme=dracula"  /></div>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
