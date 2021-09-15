@@ -1,7 +1,7 @@
 <h1 div align="center">README.md</div> 
 
 
-### Hi, it's me Doppo! :D 
+## Hi, it's me Doppo! 
 
 
 
