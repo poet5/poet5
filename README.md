@@ -27,7 +27,7 @@
 
  <h3 div align="center"> Spotify </div>
 
-<h3 div align="right"> <img src= "https://novatorem-52vqkgczt-poet5.vercel.app/spotify"  /></div>
+<h3 div align="right"> <img src="https://novatorem-52vqkgczt-poet5.vercel.app/api/spotify"></div>
 
 
 
